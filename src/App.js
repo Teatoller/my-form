@@ -1,8 +1,9 @@
 import React from 'react';
-import Form from './components/Form';
+import Form from './Components/FormContainer';
+
 function App() {
   return (
-    <div className="App">
+    <div >
       <Form />
     </div>
   );
